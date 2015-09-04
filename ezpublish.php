@@ -1,4 +1,10 @@
 <?php
+/**
+* Recipe for the deployer tool https://github.com/deployphp/deployer
+*
+* @author     Pierre-Alexis GODET <g.pierrealexis@gmail.com>
+* @version    1
+*/
 
 require 'recipe/symfony.php';
 
